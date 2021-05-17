@@ -37,8 +37,8 @@ for x in ["The", "rain", "in", "Spain"]:
 print("Done")
 
 #method-02
-cityVisited = ["kanpur", "delhi", "hariyana", "chanigar", "sri nagar", "ludiana"]
-for x in cityVisited:
+Visited = ["Kanpur", "Delhi", "Haryana", "Chandigarh", "Sri Nagar", "Ludiana", "Amritsar", "Agra"]
+for x in Visited:
     print(x)
 print("Done")
 
